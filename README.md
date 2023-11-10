@@ -12,6 +12,7 @@ Process that followed on data are
 4)	Data Visualization: By using Pivot Tables we try to create custom charts & perform formatting to create dashboard.
    
 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴:
+
 I created a Dashboard which includes Hyperlinks allow users to navigate easily between different sheets and sections of the project,
 Slicer feature allows users to filter the data, Timeline feature makes it easy to analyze different 
 time periods & grouping of categorical data to make it concise for usage and better outcomes.
